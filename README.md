@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Linktree](https://img.shields.io/badge/LinkTree-%1de9b6.svg?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mitzeus) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092367409316) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_mitzeus) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/dennismitzeus/) 
+[![Linktree](https://img.shields.io/badge/LinkTree-%1de9b6.svg?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mitzeus) <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092367409316) --> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_mitzeus) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/dennismitzeus/) 
 
 # 💻 Tech Stack:
 ## Actively Used 
