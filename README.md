@@ -1,5 +1,5 @@
 # 💫 About Me:
-👾 Lead Software Engineer & Designer of Nuimio. [文/A] <br>📊 Currently studying Bachelor in Data Science | Applied Artificial Intelligence 🤖<br><br>🤝 If you have a killer idea, then let's have a chat! 💡<br><br>⚡ I'm also a musician and general tech enthusiast.<br>❤️ I love building PC's, modding keyboards and repairing instruments!
+👾 Lead Software Engineer & Designer of Nuimio. [文/A] <br>📊 Bachelor in Data Science | Applied Artificial Intelligence 🤖<br><br>🤝 If you have a killer idea, then let's have a chat! 💡<br><br>⚡ I'm also a musician and general tech enthusiast.<br>❤️ I love building PC's, modding keyboards and repairing instruments!
 
 
 ## 🌐 Socials:
